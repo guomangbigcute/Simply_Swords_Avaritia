@@ -34,3 +34,30 @@ bin/
 run/
 
 # Licensed files - not for redistribution
+
+# Reference project (not part of the mod)
+knavesneeds-reference/
+
+# Build artifacts
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
+build_output.log
+
+# Crash reports and runtime data
+crash-reports/
+saves/
+resourcepacks/
+config/
+logs/
+mods/
+patchouli_books/
+options.txt
+usernamecache.json
+usercache.json
+patchouli_data.json
+
+# Gradle transformer
+.architectury-transformer/
