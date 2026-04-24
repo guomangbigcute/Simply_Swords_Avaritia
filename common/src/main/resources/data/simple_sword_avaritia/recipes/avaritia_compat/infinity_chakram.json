@@ -1,0 +1,25 @@
+{
+    "pattern":  [
+                    "XXXXXXXXX",
+                    "XXXXXXXXX",
+                    "XXXXXXXXX",
+                    "XXXXXXXXX",
+                    "XXXXXXXXX",
+                    "XXXXXXXXX",
+                    "XXXXXXXXX",
+                    "XXXXXXXXX",
+                    "XXXXXXXXX"
+                ],
+    "tier":  4,
+    "show_notification":  true,
+    "type":  "avaritia:shaped_table",
+    "key":  {
+                "X":  {
+                          "item": "avaritia:infinity_ingot"
+                      }
+            },
+    "category":  "equipment",
+    "result":  {
+                   "item":  "simple_sword_avaritia:avaritia_compat/infinity_chakram"
+               }
+}

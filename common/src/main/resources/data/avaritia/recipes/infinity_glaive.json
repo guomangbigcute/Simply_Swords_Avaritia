@@ -1,0 +1,37 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "avaritia:crystal_matrix"
+    },
+    "C": {
+      "item": "avaritia:crystal_matrix_ingot"
+    },
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "B": {
+      "item": "avaritia:neutron_ingot"
+    },
+    "X": {
+      "item": "avaritia:infinity_catalyst"
+    }
+  },
+  "pattern": [
+    "       II",
+    "      III",
+    "     AIII",
+    "    CXAI ",
+    "    BCI  ",
+    "   BCI   ",
+    "  BC     ",
+    " B       ",
+    "A        "
+  ],
+  "result": {
+    "item":  "simple_sword_avaritia:infinity_glaive"
+  },
+  "show_notification": true,
+  "tier": 4
+}

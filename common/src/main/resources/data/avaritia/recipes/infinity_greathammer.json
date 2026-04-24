@@ -1,0 +1,37 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "avaritia:crystal_matrix"
+    },
+    "N": {
+      "item": "avaritia:neutron"
+    },
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "B": {
+      "item": "avaritia:neutron_ingot"
+    },
+    "X": {
+      "item": "avaritia:infinity_catalyst"
+    }
+  },
+  "pattern":  [
+    "    N    ",
+    "IIIIAIIII",
+    "IIIAXAIII",
+    "IIIIAIIII",
+    "    B    ",
+    "    B    ",
+    "    B    ",
+    "    B    ",
+    "    A    "
+  ],
+  "result": {
+    "item": "simple_sword_avaritia:infinity_greathammer"
+  },
+  "show_notification": true,
+  "tier": 4
+}

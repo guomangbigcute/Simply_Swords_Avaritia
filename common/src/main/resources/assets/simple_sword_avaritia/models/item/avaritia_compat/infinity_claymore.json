@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "simple_sword_avaritia:item/avaritia_compat/infinity_claymore"
+  }
+}
